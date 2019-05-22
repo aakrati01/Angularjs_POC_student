@@ -1,0 +1,108 @@
+[
+  {
+    "id":"1",
+    "name":"Riyansh",
+    "hobbies":"Calligraphy, Cheese making, Drawing",
+    "rollNo":603,
+    "posted":"2015-10-24",
+    "contact": {
+      "fatherName":"John",
+      "phone":"(555) 555-5555",
+      "email":"john@gmail.com"
+    },
+    "categories":[
+      "Sportsperson",
+      "Male"
+    ],
+   
+    "views":213
+  },
+  {
+    "id":"2",
+    "name":"Sumedha",
+    "hobbies":"Basketball, Volleyball, Chess",
+    "rollNo": 500,
+    "posted": "2015-10-28",
+    "contact": {
+      "fatherName": "R K",
+      "phone": "(555) 555-5555",
+      "email": "rk@gmail.com"
+    },
+    "categories": [
+      "Female"
+    ],
+    
+    "views": 422
+  },
+  {
+    "id":"3",
+    "name":"Shaeyashi",
+    "hobbies":"Juggling, jwellery making, listening to music",
+    "rollNo":50,
+    "posted":"2015-10-27",
+    "contact": {
+      "fatherName":"Shyam Doe",
+      "phone":"(555) 555-5555",
+      "email":"shyamdoe@gmail.com"
+    },
+    "categories":[
+      "Female"
+    ],
+   
+    "views":23
+  },
+  {
+    "id":"4",
+    "name":"Aman",
+    "hobbies":"Driving, Fishing, Hiking, free style football, mountaineering, mountain biking",
+    "rollNo":250,
+    "posted":"2015-11-01",
+    "contact": {
+      "fatherName":"Priyatam",
+      "phone":"(555) 555-5555",
+      "email":"priyatam@gmail.com"
+    },
+    "categories":[
+      "Topper",
+      "Male"
+    ],
+    
+    "views":77
+  },
+  {
+    "id":"5",
+    "name":"Anisha",
+    "hobbies":"Art collection, photography",
+    "rollNo":1150,
+    "posted":"2015-11-02",
+    "contact": {
+      "fatherName":"Ramesh",
+      "phone":"(555) 555-5555",
+      "email":"ramesh@gmail.com"
+    },
+    "categories":[
+      "Topper",
+      "Female"
+    ],
+   
+    "views":889
+  },
+  {
+    "id":"6",
+    "name":"Ricky",
+    "hobbies":"Swimming, long boarding",
+    "rollNo":4800,
+    "posted":"2015-11-03",
+    "contact": {
+      "fatherName":"Vinod",
+      "phone":"(555) 555-5555",
+      "email":"vinod@gmail.com"
+    },
+    "categories":[
+      "Male",
+      "Sportsperson"
+    ],
+   
+    "views":423
+  }
+]
